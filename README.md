@@ -4,5 +4,5 @@
 * !important is an automatic win
 
 ## The Box Model
-The CSS box model is essentially a box that wraps around every HTML element. 
+Every element in web design is a rectangular box. The CSS box model is essentially a box that wraps around every HTML element. 
 It consists of: margins, borders, padding, and the actual content.
